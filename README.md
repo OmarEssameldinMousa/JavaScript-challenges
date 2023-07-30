@@ -1,5 +1,5 @@
 # JavaScript-challenges
-Here you can find my most challenging web design problems using JavaScript 
+Here you can find some challenging web design problems using JavaScript 
 
 
 1 - the first static website using only javascript except font-related styles
